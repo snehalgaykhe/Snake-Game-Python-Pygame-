@@ -1,5 +1,6 @@
-# Snake-Game-Python-Pygame-
-A classic Snake Game built with Python and Pygame, featuring smooth gameplay, scoring, grid-based rendering, and a restart option. This beginner-friendly project is perfect for learning the basics of game development, event handling, and object-oriented programming.
+# Snake-Game-Python(Pygame)
+A classic Snake Game built with Python and Pygame, featuring smooth gameplay, scoring, grid-based rendering, and a restart option. 
+This beginner-friendly project is perfect for learning the basics of game development, event handling, and object-oriented programming.
 
 <img width="749" height="539" alt="Screenshot 2025-08-28 234940" src="https://github.com/user-attachments/assets/2eaf7cc2-6295-43b2-82df-ae2fc456b5af" />
 
